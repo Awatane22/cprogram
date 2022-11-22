@@ -10,3 +10,27 @@ main()
 	}
 	printf("\n Factorial is=%d",f);
 }
+void add
+{
+		int a,b,c;
+	printf("\n Enter the value a:");
+	scanf("%d",&a);
+	
+	printf("\n Enter the value b:");
+	scanf("%d",&b);
+	
+	c=a+b;
+	printf("\n adition of 2 number is %d",c);
+}
+void sub
+{
+		int a,b,c;
+	printf("\n Enter the value a:");
+	scanf("%d",&a);
+	
+	printf("\n Enter the value b:");
+	scanf("%d",&b);
+	
+	c=a-b;
+	printf("\n adition of 2 number is %d",c);
+}
