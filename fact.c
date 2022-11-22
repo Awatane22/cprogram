@@ -22,7 +22,7 @@ void add
 	c=a+b;
 	printf("\n adition of 2 number is %d",c);
 }
-void sub
+void subtraction
 {
 		int a,b,c;
 	printf("\n Enter the value a:");
